@@ -3,3 +3,4 @@
 -pizza
 - gâteau au chocolat
 - glaçons
+- serviettes
